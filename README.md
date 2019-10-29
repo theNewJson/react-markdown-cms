@@ -2,7 +2,8 @@ A simple CMS system for markdown articles.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Using hooks for life cycle management and local storage as database.
 [ant-design](https://github.com/ant-design/ant-design) for styled components and form manipulation.
-[ramda](htthttps://github.com/ramda/ramda) as the main utility library.
+[ramda](https://github.com/ramda/ramda) as the main utility library.
+[react-markdown](https://github.com/rexxars/react-markdown) for markdown display.
 
 ## Available Scripts
 
